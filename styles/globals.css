@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
 
 * {
   box-sizing: border-box;
@@ -10,11 +10,9 @@ body {
   --color-accent: #00adb5;
   --color-complementary: #eeeeee;
 
-  --color-success-100: #a2f0bc;
-  --color-success-500: #12bd4b;
+  --color-success: #12bd4b;
 
-  --color-error-100: #f1acc9;
-  --color-error-500: #a10c4a;
+  --color-error: #a10c4a;
 
   --size-1: 0.25rem;
   --size-2: 0.5rem;
@@ -30,13 +28,13 @@ body {
   margin: 0;
   background-color: var(--color-grey-500);
   color: #252525;
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 h1,
 h2,
 h3 {
-  font-family: "Oswald", "Roboto", sans-serif;
+  font-family: 'Oswald', 'Roboto', sans-serif;
 }
 
 a {

@@ -1,0 +1,19 @@
+.items {
+  width: 90%;
+  max-width: 60rem;
+  margin: var(--size-8) auto;
+}
+
+.items h1 {
+  font-size: var(--size-8);
+  color: var(--color-primary);
+  text-align: center;
+  margin-top: var(--size-40);
+  margin-bottom: var(--size-20);
+}
+
+@media (min-width: 768px) {
+  .items h1 {
+    font-size: var(--size-16);
+  }
+}

@@ -1,7 +1,7 @@
-import Link from "next/link";
-import Logo from "./logo";
+import Link from 'next/link';
+import Logo from './logo';
 
-import classes from "./main-navigation.module.css";
+import classes from './main-navigation.module.css';
 
 const MainNavigation = () => {
   return (
@@ -14,6 +14,9 @@ const MainNavigation = () => {
         </Link>
         <nav>
           <ul>
+            <li>
+              <Link href='/portfolio'>Portfolio</Link>
+            </li>
             <li>
               <Link href='/posts'>Posts</Link>
             </li>

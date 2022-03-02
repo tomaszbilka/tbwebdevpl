@@ -1,11 +1,10 @@
-import ReactMarkdown from "react-markdown";
-import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
-import { atomDark } from "react-syntax-highlighter/dist/cjs/styles/prism";
-import remarkGfm from "remark-gfm";
-import Image from "next/image";
+import ReactMarkdown from 'react-markdown';
+import { Prism as SyntaxHighlighter } from 'react-syntax-highlighter';
+import { atomDark } from 'react-syntax-highlighter/dist/cjs/styles/prism';
+import Image from 'next/image';
+import PostHeader from './post-header';
 
-import PostHeader from "./post-header";
-import classes from "./post-content.module.css";
+import classes from './post-content.module.css';
 
 const PostContent = (props) => {
   const { post } = props;
@@ -26,7 +25,7 @@ const PostContent = (props) => {
     p(paragraph) {
       const { node } = paragraph;
 
-      if (node.children[0].tagName === "img") {
+      if (node.children[0].tagName === 'img') {
         const image = node.children[0];
 
         return (
@@ -40,6 +39,7 @@ const PostContent = (props) => {
           </div>
         );
       }
+
       //render regular paragraph
       return <p>{paragraph.children}</p>;
     },
@@ -47,14 +47,16 @@ const PostContent = (props) => {
     code(code) {
       const { className, children } = code;
 
-      const language = className.split("-")[1]; // className is something like language-js => We need the "js" part here
+      const language = className.split('-')[1]; // className is something like language-js => We need the "js" part here
 
       return (
-        <SyntaxHighlighter
-          style={atomDark}
-          language={language}
-          children={children}
-        />
+        <div className={classes.code}>
+          <SyntaxHighlighter
+            style={atomDark}
+            language={language}
+            children={children}
+          />
+        </div>
       );
     },
   };
@@ -62,7 +64,7 @@ const PostContent = (props) => {
   return (
     <article className={classes.content}>
       <PostHeader title={post.title} image={imagePath} />
-      <ReactMarkdown remarkPlugins={[remarkGfm]} components={customRenderers}>
+      <ReactMarkdown components={customRenderers} remarkPlugins={[]}>
         {post.content}
       </ReactMarkdown>
     </article>

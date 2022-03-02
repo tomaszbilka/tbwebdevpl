@@ -16,7 +16,7 @@ const ContactForm = () => {
       const timer = setTimeout(() => {
         setRequestStatus(null);
         setRequestError(null);
-      }, 3000);
+      }, 5000);
 
       return () => clearInterval(timer);
     }
