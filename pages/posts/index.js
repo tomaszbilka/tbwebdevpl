@@ -24,7 +24,6 @@ export function getStaticProps() {
     props: {
       posts: allPosts,
     },
-    revalidate: 1800,
   };
 }
 

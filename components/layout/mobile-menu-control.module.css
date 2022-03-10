@@ -1,0 +1,10 @@
+.phoneMenu {
+  cursor: pointer;
+  display: none;
+}
+
+@media (max-width: 550px) {
+  .phoneMenu {
+    display: block;
+  }
+}

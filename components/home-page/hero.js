@@ -1,6 +1,6 @@
-import Image from "next/image";
+import Image from 'next/image';
 
-import classes from "./hero.module.css";
+import classes from './hero.module.css';
 
 const Hero = () => {
   return (

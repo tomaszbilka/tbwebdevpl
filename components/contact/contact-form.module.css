@@ -47,9 +47,19 @@
   min-width: 10rem;
 }
 
+.labelWrap {
+  display: flex;
+  align-items: center;
+}
+.labelWrap label {
+  margin-right: 1rem;
+}
+
 .actions {
   margin-top: var(--size-4);
   text-align: right;
+  display: flex;
+  justify-content: flex-end;
 }
 
 .form button {
@@ -61,6 +71,13 @@
   border-radius: 4px;
   color: #fff;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form button p {
+  margin: 0 1rem 0 0;
 }
 
 .form button:hover {

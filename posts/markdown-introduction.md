@@ -3,7 +3,7 @@ title: Markdown language
 excerpt: Markdown is simple markup language that speed up your web work!
 image: markdown-introduction.png
 isFeatured: true
-date: "2022-02-19"
+date: '2022-02-19'
 ---
 
 ---
@@ -77,7 +77,7 @@ And so on! There are so many places in the Internet with Markdown's syntax docum
 
 ### How I use Markdown?
 
-All posts on this blog are made thanks to Markdown. In a simple and fast way, using the appropriate syntax, I write the content and save it in a file with the _.md_ extension. Then I download the content of these files via **Next.js** and convert it to HTML, then display in the browser. I am using the [react-markdown](https://github.com/remarkjs/react-markdown) package as a converter.
+All posts on this blog are made thanks to Markdown. In a simple and fast way, using the appropriate syntax, I write the content and save it in a file with the _.md_ extension. Then I import the content of these files via **Next.js** and convert it to HTML, then display in the browser. I am using the [react-markdown](https://github.com/remarkjs/react-markdown) package as a converter.
 
 ---
 

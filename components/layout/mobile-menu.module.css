@@ -1,0 +1,35 @@
+nav.mobile {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: var(--color-secondary);
+  z-index: 2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.close {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}
+
+.listWrap {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.listWrap li {
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.listWrap li a {
+  font-size: var(--size-10);
+  font-weight: bold;
+}

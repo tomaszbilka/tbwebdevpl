@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import Logo from './logo';
+import MobileMenuControl from './mobile-menu-control';
 
 import classes from './main-navigation.module.css';
 
@@ -12,7 +13,8 @@ const MainNavigation = () => {
             <Logo />
           </a>
         </Link>
-        <nav>
+        <MobileMenuControl />
+        <nav className={classes.main}>
           <ul>
             <li>
               <Link href='/portfolio'>Portfolio</Link>
