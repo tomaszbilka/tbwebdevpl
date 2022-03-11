@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="450" viewBox="0 0 800 450">
+  <defs>
+    <clipPath id="clip-svg-example-four">
+      <rect width="800" height="450"/>
+    </clipPath>
+  </defs>
+  <g id="svg-example-four" clip-path="url(#clip-svg-example-four)">
+    <rect width="800" height="450" fill="#d9f8f4"/>
+    <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(142 96.88)" fill="#fff" stroke="#000" stroke-width="2">
+      <rect width="300" height="300" stroke="none"/>
+      <rect x="1" y="1" width="298" height="298" fill="none"/>
+    </g>
+    <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(217 171.88)" fill="#fff" stroke="#000" stroke-width="2">
+      <rect width="150" height="150" stroke="none"/>
+      <rect x="1" y="1" width="148" height="148" fill="none"/>
+    </g>
+    <line id="Line_1" data-name="Line 1" x2="368.408" transform="translate(109.285 171.38)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_2" data-name="Line 2" x2="368.408" transform="translate(109.285 246.88)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_3" data-name="Line 3" x2="368.408" transform="translate(109.285 321.88)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_1-2" data-name="Line 1" x2="355.012" transform="translate(217 70.108) rotate(90)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_1-3" data-name="Line 1" x2="355.012" transform="translate(292 70.108) rotate(90)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_1-4" data-name="Line 1" x2="355.012" transform="translate(367 70.108) rotate(90)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(218 171.88)" fill="#6e6e6e" stroke="#707070" stroke-width="1">
+      <circle cx="75" cy="75" r="75" stroke="none"/>
+      <circle cx="75" cy="75" r="74.5" fill="none"/>
+    </g>
+    <line id="Line_4" data-name="Line 4" x2="65" y2="65" transform="translate(142.5 97.38)" fill="none" stroke="#0f2" stroke-width="3"/>
+    <g id="Polygon_1" data-name="Polygon 1" transform="translate(221.132 169.855) rotate(135)" fill="#0f2">
+      <path d="M 7.349191665649414 14.5 L 0.6508077383041382 14.5 L 3.999999761581421 1.940529942512512 L 7.349191665649414 14.5 Z" stroke="none"/>
+      <path d="M 3.999999761581421 3.881022453308105 L 1.301605701446533 14 L 6.698393821716309 14 L 3.999999761581421 3.881022453308105 M 3.999999761581421 0 L 8 15 L -4.76837158203125e-07 15 L 3.999999761581421 0 Z" stroke="none" fill="#0f2"/>
+    </g>
+    <g id="Polygon_2" data-name="Polygon 2" transform="translate(367 154.38) rotate(90)" fill="#0f2">
+      <path d="M 7.349191665649414 14.5 L 0.6508077383041382 14.5 L 3.999999761581421 1.940529942512512 L 7.349191665649414 14.5 Z" stroke="none"/>
+      <path d="M 3.999999761581421 3.881022453308105 L 1.301605701446533 14 L 6.698393821716309 14 L 3.999999761581421 3.881022453308105 M 3.999999761581421 0 L 8 15 L -4.76837158203125e-07 15 L 3.999999761581421 0 Z" stroke="none" fill="#0f2"/>
+    </g>
+    <line id="Line_5" data-name="Line 5" x1="135" transform="translate(217.5 158.38)" fill="none" stroke="#0f2" stroke-width="3"/>
+    <g id="Polygon_3" data-name="Polygon 3" transform="translate(209 321.88) rotate(180)" fill="#0f2">
+      <path d="M 8.327988624572754 14.5 L 0.6720110177993774 14.5 L 4.5 1.740036725997925 L 8.327988624572754 14.5 Z" stroke="none"/>
+      <path d="M 4.5 3.480116844177246 L 1.344035148620605 14 L 7.655964851379395 14 L 4.5 3.480116844177246 M 4.5 0 L 9 15 L 0 15 L 4.5 0 Z" stroke="none" fill="#0f2"/>
+    </g>
+    <line id="Line_6" data-name="Line 6" y2="135" transform="translate(204.5 171.88)" fill="none" stroke="#0f2" stroke-width="3"/>
+    <text id="_150px" data-name="150px" transform="translate(302 148.88)" fill="#0f2" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">150px</tspan></text>
+    <text id="_150px-2" data-name="150px" transform="translate(188 314.88) rotate(-90)" fill="#0f2" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">150px</tspan></text>
+    <line id="Line_7" data-name="Line 7" x2="58" transform="translate(150.5 82.38)" fill="none" stroke="#000" stroke-width="1"/>
+    <g id="Polygon_4" data-name="Polygon 4" transform="translate(217 79.88) rotate(90)">
+      <path d="M 4.37360954284668 10.5 L 0.6263904571533203 10.5 L 2.5 2.256118059158325 L 4.37360954284668 10.5 Z" stroke="none"/>
+      <path d="M 2.5 4.512191772460938 L 1.252770900726318 10 L 3.747229099273682 10 L 2.5 4.512191772460938 M 2.5 0 L 5 11 L 0 11 L 2.5 0 Z" stroke="none" fill="#000"/>
+    </g>
+    <g id="Polygon_5" data-name="Polygon 5" transform="translate(142 84.88) rotate(-90)">
+      <path d="M 4.37360954284668 10.5 L 0.6263904571533203 10.5 L 2.5 2.256118059158325 L 4.37360954284668 10.5 Z" stroke="none"/>
+      <path d="M 2.5 4.512191772460938 L 1.252770900726318 10 L 3.747229099273682 10 L 2.5 4.512191772460938 M 2.5 0 L 5 11 L 0 11 L 2.5 0 Z" stroke="none" fill="#000"/>
+    </g>
+    <line id="Line_8" data-name="Line 8" x2="58" transform="translate(129.5 104.88) rotate(90)" fill="none" stroke="#000" stroke-width="1"/>
+    <text id="_75px" data-name="75px" transform="translate(158 68.88)" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">75px</tspan></text>
+    <text id="_75px-2" data-name="75px" transform="translate(115 153.88) rotate(-90)" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">75px</tspan></text>
+    <g id="Polygon_6" data-name="Polygon 6" transform="translate(127 96.88)">
+      <path d="M 4.37360954284668 10.5 L 0.6263904571533203 10.5 L 2.5 2.256118059158325 L 4.37360954284668 10.5 Z" stroke="none"/>
+      <path d="M 2.5 4.512191772460938 L 1.252770900726318 10 L 3.747229099273682 10 L 2.5 4.512191772460938 M 2.5 0 L 5 11 L 0 11 L 2.5 0 Z" stroke="none" fill="#000"/>
+    </g>
+    <g id="Polygon_7" data-name="Polygon 7" transform="translate(132 170.88) rotate(180)">
+      <path d="M 4.37360954284668 10.5 L 0.6263904571533203 10.5 L 2.5 2.256118059158325 L 4.37360954284668 10.5 Z" stroke="none"/>
+      <path d="M 2.5 4.512191772460938 L 1.252770900726318 10 L 3.747229099273682 10 L 2.5 4.512191772460938 M 2.5 0 L 5 11 L 0 11 L 2.5 0 Z" stroke="none" fill="#000"/>
+    </g>
+    <g id="Polygon_8" data-name="Polygon 8" transform="translate(142 42.88) rotate(-90)">
+      <path d="M 4.37360954284668 10.5 L 0.6263904571533203 10.5 L 2.5 2.256118059158325 L 4.37360954284668 10.5 Z" stroke="none"/>
+      <path d="M 2.5 4.512191772460938 L 1.252770900726318 10 L 3.747229099273682 10 L 2.5 4.512191772460938 M 2.5 0 L 5 11 L 0 11 L 2.5 0 Z" stroke="none" fill="#000"/>
+    </g>
+    <line id="Line_9" data-name="Line 9" x2="110.5" transform="translate(153 40.38)" fill="none" stroke="#000" stroke-width="1"/>
+    <line id="Line_10" data-name="Line 10" x2="110.5" transform="translate(328.5 40.38)" fill="none" stroke="#000" stroke-width="1"/>
+    <g id="Polygon_9" data-name="Polygon 9" transform="translate(442 37.88) rotate(90)">
+      <path d="M 4.37360954284668 10.5 L 0.6263904571533203 10.5 L 2.5 2.256118059158325 L 4.37360954284668 10.5 Z" stroke="none"/>
+      <path d="M 2.5 4.512191772460938 L 1.252770900726318 10 L 3.747229099273682 10 L 2.5 4.512191772460938 M 2.5 0 L 5 11 L 0 11 L 2.5 0 Z" stroke="none" fill="#000"/>
+    </g>
+    <g id="Polygon_10" data-name="Polygon 10" transform="translate(79 96.88)">
+      <path d="M 4.37360954284668 10.5 L 0.6263904571533203 10.5 L 2.5 2.256118059158325 L 4.37360954284668 10.5 Z" stroke="none"/>
+      <path d="M 2.5 4.512191772460938 L 1.252770900726318 10 L 3.747229099273682 10 L 2.5 4.512191772460938 M 2.5 0 L 5 11 L 0 11 L 2.5 0 Z" stroke="none" fill="#000"/>
+    </g>
+    <line id="Line_11" data-name="Line 11" y2="107" transform="translate(81.5 107.38)" fill="none" stroke="#000" stroke-width="1"/>
+    <line id="Line_12" data-name="Line 12" y2="113" transform="translate(81.5 277.38)" fill="none" stroke="#000" stroke-width="1"/>
+    <g id="Polygon_11" data-name="Polygon 11" transform="translate(84 396.88) rotate(180)">
+      <path d="M 4.37360954284668 10.5 L 0.6263904571533203 10.5 L 2.5 2.256118059158325 L 4.37360954284668 10.5 Z" stroke="none"/>
+      <path d="M 2.5 4.512191772460938 L 1.252770900726318 10 L 3.747229099273682 10 L 2.5 4.512191772460938 M 2.5 0 L 5 11 L 0 11 L 2.5 0 Z" stroke="none" fill="#000"/>
+    </g>
+    <g id="Polygon_12" data-name="Polygon 12" transform="translate(79 96.88)">
+      <path d="M 4.37360954284668 10.5 L 0.6263904571533203 10.5 L 2.5 2.256118059158325 L 4.37360954284668 10.5 Z" stroke="none"/>
+      <path d="M 2.5 4.512191772460938 L 1.252770900726318 10 L 3.747229099273682 10 L 2.5 4.512191772460938 M 2.5 0 L 5 11 L 0 11 L 2.5 0 Z" stroke="none" fill="#000"/>
+    </g>
+    <text id="_300px" data-name="300px" transform="translate(267 46.88)" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">300px</tspan></text>
+    <text id="_300px-2" data-name="300px" transform="translate(88 273.88) rotate(-90)" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">300px</tspan></text>
+    <text id="viewport:_height_300_width_300_" data-name="viewport:
+height=&quot;300&quot;
+width=&quot;300&quot;
+
+" transform="translate(520 86.88)" font-size="20"><tspan font-family="SegoeUI, Segoe UI" font-weight="400" font-style="normal"><tspan x="0" y="0">viewport:</tspan><tspan x="0" y="27">height=&quot;300&quot;</tspan><tspan x="0" y="54">width=&quot;300&quot;</tspan><tspan x="0" y="81"></tspan></tspan><tspan x="0" y="108"></tspan></text>
+    <line id="Line_13" data-name="Line 13" y1="38" x2="66" transform="translate(442.5 108.38)" fill="none" stroke="blue" stroke-width="2"/>
+    <text id="viewBox_75_75_150_150_" data-name="viewBox=&quot;75 75 150 150&quot;" transform="translate(509 380.88)" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">viewBox=&quot;75 75 150 150&quot;</tspan></text>
+    <line id="Line_14" data-name="Line 14" x2="126" y2="78" transform="translate(368.5 294.38)" fill="none" stroke="blue" stroke-width="2"/>
+  </g>
+</svg>

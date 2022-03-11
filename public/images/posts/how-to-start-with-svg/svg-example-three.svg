@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="544" height="300" viewBox="0 0 544 300">
+  <defs>
+    <clipPath id="clip-svg-example-three">
+      <rect width="544" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="svg-example-three" clip-path="url(#clip-svg-example-three)">
+    <rect width="544" height="300" fill="#fff"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="137.5" cy="137.5" r="137.5" transform="translate(-124 -125)"/>
+    <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(11 10)" fill="none" stroke="red" stroke-width="3">
+      <rect width="280" height="280" stroke="none"/>
+      <rect x="1.5" y="1.5" width="277" height="277" fill="none"/>
+    </g>
+    <text id="_svg_class_example_viewBox_150_150_300_300_" data-name="&lt;svg class=&quot;example&quot;
+ viewBox=&quot;150 150 300 300&quot;&gt;
+" transform="translate(305 58)" font-size="13" font-family="Lato-Regular, Lato"><tspan x="0" y="0">&lt;svg class=&quot;example&quot;</tspan><tspan x="0" y="16" xml:space="preserve"> viewBox=&quot;150 150 300 300&quot;&gt;</tspan><tspan x="0" y="32"></tspan></text>
+    <text id="_circle_r_150_cx_150_cy_150_" data-name="&lt;circle r=&quot;150&quot; cx=&quot;150&quot; cy=&quot;150&quot; /&gt;" transform="translate(319 94)" font-size="13" font-family="Lato-Regular, Lato"><tspan x="0" y="0">&lt;circle r=&quot;150&quot; cx=&quot;150&quot; cy=&quot;150&quot; /&gt;</tspan></text>
+    <text id="_svg_" data-name="&lt;/svg&gt;" transform="translate(305 114)" font-size="13" font-family="Lato-Regular, Lato"><tspan x="0" y="0">&lt;/svg&gt;</tspan></text>
+    <text id="_.example_border:_2px_solid_red_width:_300px_height:_300px_" data-name=".example {
+    border: 2px solid red;
+    width: 300px;
+    height: 300px;
+}" transform="translate(305 159)" font-size="13" font-family="Lato-Regular, Lato"><tspan x="0" y="0">.example {</tspan><tspan x="0" y="16" xml:space="preserve">    border: 2px solid red;</tspan><tspan x="0" y="32" xml:space="preserve">    width: 300px;</tspan><tspan x="0" y="48" xml:space="preserve">    height: 300px;</tspan><tspan x="0" y="64">}</tspan></text>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="412" height="45" transform="translate(-25 -35)" fill="#fff"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="50" height="291" transform="translate(-39 -13)" fill="#fff"/>
+  </g>
+</svg>
