@@ -1,13 +1,16 @@
 import PostItem from "./post-item";
+import { sortPostsByDate } from "../../utils/postSort";
 
 import classes from "./posts-grid.module.css";
 
 const PostsGrid = (props) => {
   const { posts } = props;
 
+  const sortedPosts = sortPostsByDate(posts);
+
   return (
     <ul className={classes.grid}>
-      {posts.map((post) => (
+      {sortedPosts.map((post) => (
         <PostItem key={post.slug} post={post} />
       ))}
     </ul>
