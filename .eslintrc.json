@@ -1,0 +1,27 @@
+{
+  "env": {
+    "es2021": true
+  },
+  "extends": [
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "plugin:react/jsx-runtime",
+    "prettier"
+  ],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": "latest",
+    "sourceType": "module"
+  },
+  "plugins": ["react", "prettier"],
+  "rules": {
+    "prettier/prettier": ["error"],
+    "react/no-multi-comp": 1,
+    "react/no-typos": 1,
+    "react/no-deprecated": 1,
+    "react/jsx-key": 1,
+    "react/jsx-no-undef": 1
+  }
+}
