@@ -1,9 +1,9 @@
 ---
-title: "Config your Prettier"
-date: "2022-04-10"
+title: 'Config your Prettier'
+date: '2022-04-10'
 image: prettier-config.png
 excerpt: Prettier can help keep your code tidy almost without even thinking about it.
-isFeatured: true
+isFeatured: false
 ---
 
 ---
@@ -20,7 +20,7 @@ After installation this extension in your code editor (e.g. VS Code), you can ma
 
 ```js
 module.exports = {
-  trailingComma: "es5",
+  trailingComma: 'es5',
   tabWidth: 4,
   semi: false,
   singleQuote: true,
